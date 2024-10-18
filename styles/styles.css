@@ -1,0 +1,15 @@
+.red-bg{
+    background-color: red;
+    color: white;
+}
+.blue-bg{
+    background-color: blue;
+    color: white;
+}
+.green-bg{
+    background-color: green;
+    color: white;
+}
+.img{
+    width: 100%;
+}
